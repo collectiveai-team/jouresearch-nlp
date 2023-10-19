@@ -15,7 +15,7 @@ pydantic = "^1.8.2"
 wordcloud = "^1.8.1"
 Pillow = "^8.4.0"
 multidict = "^5.2.0"
-bertopic = "^0.9.4"
+bertopic = "^0.15.0"`
 
 [tool.poetry.dev-dependencies]
 pytest = "^5.2"
